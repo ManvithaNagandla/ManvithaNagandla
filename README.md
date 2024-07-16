@@ -26,8 +26,11 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 ## Assistant Systems Engineer, QA Engineer - Citi Bank
 •	Over 70% of Test Case overage was attained with Junit for various Zelle techniques and layers.
+
 •	Traceability was increased by 25% because of Zephyr’s integration with Jira for test management.
+
 •	Completed more than 500 test cases with success, covering backend, regression, non-functional, and functional testing.
+
 •	Developed and implemented fully distributed systems using Microservices and Restful API, which helped increase system efficiency by 20%.
 •	Identified and resolved over 100 software defects, improved system stability and reduced downtime by 15%
 •	Developed automated scripts using Selenium and TestNG, reducing manual testing efforts by 30% and ensuring consistent test execution.
