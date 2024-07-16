@@ -32,17 +32,25 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 •	Completed more than 500 test cases with success, covering backend, regression, non-functional, and functional testing.
 
 •	Developed and implemented fully distributed systems using Microservices and Restful API, which helped increase system efficiency by 20%.
+
 •	Identified and resolved over 100 software defects, improved system stability and reduced downtime by 15%
+
 •	Developed automated scripts using Selenium and TestNG, reducing manual testing efforts by 30% and ensuring consistent test execution.
+
 •	Carried out more than 20+ code reviews for automated test scripts, guaranteeing excellent standards and promoting smooth communication with development teams.
 
 
 ## Data Engineer - Lufthansa
 •	Analyzed over 500 datasets using SQL (SQL Server, MySQL), NoSQL databases (MongoDB), and statistical methods (R, Python) to uncover operational trends and customer insights.
+
 •	Developed 30+ interactive dashboards (Tableau, Power BI, Looker, SAP Analytics Cloud) for KPI monitoring, enhancing decision-making in SAP environments with advanced data visualization and custom calculations.
+
 •	Designed and maintained 50+ dynamic reports using Excel, PivotTables, Google Sheets, and SAP Analytics Cloud, ensuring 98% data accuracy and 30% reduced reporting time through automation.
+
 •	Utilized statistical modeling (SAS, SPSS, Stata) and machine learning (Python, scikit-learn) for 95% accurate forecasting and predictive analytics, optimizing operational efficiency and forecasting demand.
+
 •	Ensured data integrity with 98% accuracy through rigorous cleaning, validation (Python, Pandas, NumPy), and governance practices in SAP Analytics Cloud, enhancing data reliability and consistency.
+
 •	Developed 10+ custom applications and visualizations in SAP Analytics Cloud, improving 80% stakeholder engagement with real-time insights and integrated data sources.
 
 
