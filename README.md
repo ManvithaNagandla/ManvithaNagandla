@@ -48,7 +48,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 •	Carried out more than 20+ code reviews for automated test scripts, guaranteeing excellent standards and promoting smooth communication with development teams.
 
 
-## Data Engineer - Lufthansa
+## QA Engineer - Lufthansa
 •	Analyzed over 500 datasets using SQL (SQL Server, MySQL), NoSQL databases (MongoDB), and statistical methods (R, Python) to uncover operational trends and customer insights.
 
 •	Developed 30+ interactive dashboards (Tableau, Power BI, Looker, SAP Analytics Cloud) for KPI monitoring, enhancing decision-making in SAP environments with advanced data visualization and custom calculations.
