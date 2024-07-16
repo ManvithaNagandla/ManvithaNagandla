@@ -49,17 +49,13 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 
 ## QA Engineer - Lufthansa
-•	Analyzed over 500 datasets using SQL (SQL Server, MySQL), NoSQL databases (MongoDB), and statistical methods (R, Python) to uncover operational trends and customer insights.
+• Collaborated with cross-functional teams to establish quality standards, overseeing 45% of test cycles, and maintained an updated test case library.
 
-•	Developed 30+ interactive dashboards (Tableau, Power BI, Looker, SAP Analytics Cloud) for KPI monitoring, enhancing decision-making in SAP environments with advanced data visualization and custom calculations.
+•	Analyzed product issues, prioritized 30% of bug reports, developed detailed test cases and automated key tests to enhance efficiency.
 
-•	Designed and maintained 50+ dynamic reports using Excel, PivotTables, Google Sheets, and SAP Analytics Cloud, ensuring 98% data accuracy and 30% reduced reporting time through automation.
+•	Conducted reviews to align testing strategies and assessed product acceptability based on the requirement. 
 
-•	Utilized statistical modeling (SAS, SPSS, Stata) and machine learning (Python, scikit-learn) for 95% accurate forecasting and predictive analytics, optimizing operational efficiency and forecasting demand.
 
-•	Ensured data integrity with 98% accuracy through rigorous cleaning, validation (Python, Pandas, NumPy), and governance practices in SAP Analytics Cloud, enhancing data reliability and consistency.
-
-•	Developed 10+ custom applications and visualizations in SAP Analytics Cloud, improving 80% stakeholder engagement with real-time insights and integrated data sources.
 
 
 
