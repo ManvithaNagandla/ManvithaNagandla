@@ -1,7 +1,7 @@
 # DATA ENGINEER
 
 ### <img align="center" src="assets/mortarboard.png" alt="ManvithaNagandla" height="50" width="60" /> Education
-Master of Science in Business Analytics and Information Systems (CGPA-3.70) 
+Master of Science in Business Analytics and Information Systems (CGPA-3.79) 
 
 University of South Florida, Tampa FL USA
 
@@ -22,38 +22,42 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 ## <img align="center" src="assets/career.png" alt="ManvithaNagandla" height="50" width="60" /> Work Experience
-## Accenture | Hyderabad, India | May 2019- July 2022
+## TCS | Hyderabad, India | July 2021- July 2023
 
-## Data Analyst
-•	Led data analysis initiatives employing advanced analytics techniques, extracting actionable insights to drive informed decision-making.
-•	Applied machine learning algorithms to automate and enhance data analysis processes, contributing to increased efficiency and accuracy in
-decision support.
-•	Collaborated closely with stakeholders, gathering and meticulously documenting detailed technical specifications to ensure alignment with
-project goals.
-•	Carried out RESTful APIs and adopted a microservices architecture, fostering scalable and resilient application design.
-•	Executed comprehensive testing procedures, including unit testing, integration testing, and performance testing, ensuring the robustness and
-reliability of .NET applications.
-•	Applied Git version control and established CI/CD pipelines, promoting efficient code management and deployment practices.
-•	Integral member of agile software development teams, following Scrum methodologies to deliver high-quality software within specified
-timelines.
+## Assistant Systems Engineer, QA Engineer - Citi Bank
+•	Over 70% of Test Case overage was attained with Junit for various Zelle techniques and layers.
+•	Traceability was increased by 25% because of Zephyr’s integration with Jira for test management.
+•	Completed more than 500 test cases with success, covering backend, regression, non-functional, and functional testing.
+•	Developed and implemented fully distributed systems using Microservices and Restful API, which helped increase system efficiency by 20%.
+•	Identified and resolved over 100 software defects, improved system stability and reduced downtime by 15%
+•	Developed automated scripts using Selenium and TestNG, reducing manual testing efforts by 30% and ensuring consistent test execution.
+•	Carried out more than 20+ code reviews for automated test scripts, guaranteeing excellent standards and promoting smooth communication with development teams.
 
 
-## Data Engineer
-•	Spearheaded the design, implementation, and enhancement of ETL pipelines utilizing Informatica PowerCenter, with a specific focus on
-pharmacy claims data.
-•	Successfully identified and resolved numerous data discrepancies, achieving an 80% reduction in errors. Conducted thorough data analysis using SQL, addressing root causes and implementing necessary fixes.
-•	Achieved significant efficiency gains by automating the auditing process through the development of ETL jobs, Python scripts, and shell scripts. This automation reduced the time required for generating audit reports from 8 hours to just 1 hour.
-•	Collaborated on the creation of interactive dashboards and reports using Tableau, offering stakeholders valuable insights and visualizations.
-•	Leveraged advanced Excel functionalities to develop comprehensive reports and interactive dashboards for data analysis purposes. Utilized features such as pivot tables, data validation, and conditional formatting to extract actionable insights and visually communicate complex data findings to stakeholders.
+## Data Engineer - Lufthansa
+•	Analyzed over 500 datasets using SQL (SQL Server, MySQL), NoSQL databases (MongoDB), and statistical methods (R, Python) to uncover operational trends and customer insights.
+•	Developed 30+ interactive dashboards (Tableau, Power BI, Looker, SAP Analytics Cloud) for KPI monitoring, enhancing decision-making in SAP environments with advanced data visualization and custom calculations.
+•	Designed and maintained 50+ dynamic reports using Excel, PivotTables, Google Sheets, and SAP Analytics Cloud, ensuring 98% data accuracy and 30% reduced reporting time through automation.
+•	Utilized statistical modeling (SAS, SPSS, Stata) and machine learning (Python, scikit-learn) for 95% accurate forecasting and predictive analytics, optimizing operational efficiency and forecasting demand.
+•	Ensured data integrity with 98% accuracy through rigorous cleaning, validation (Python, Pandas, NumPy), and governance practices in SAP Analytics Cloud, enhancing data reliability and consistency.
+•	Developed 10+ custom applications and visualizations in SAP Analytics Cloud, improving 80% stakeholder engagement with real-time insights and integrated data sources.
+
+
 
 
 ### <img align="center" src="assets/project-management.png" alt="ManvithaNagandla" height="50" width="60" /> ProjecMade 
-## Easy Pharmacy Store Website: 
-We developed and implemented a user-friendly and visually appealing e-commerce website for a pharmacy store, providing seamless online shopping experience for customers. We used technologies to develop the website HTML, CSS, JavaScript, Flask.
-## Airbnb project:
-With SQL Developer, created a database like Airbnb’s business workflow using the data-dimensional modeling approach. It helps capture business data and can handle operations smoothly. From the data, we can infer targeted customers and the footfall of the customers.
-## Data visualization Project:
-Accomplished data analyst with expertise in leveraging IMDb data to analyze and visualize trends in Netflix's vast content library. Proficient in using datasets to uncover insights on content popularity, directorial influence, and cross-platform performance. Demonstrated ability to draw meaningful conclusions and inform strategic content decisions. Strong skills in data visualization, trend analysis.
+## USF Dining Web Application:
+Designed a responsive web application, enhancing user engagement through interactive charts and intuitive navigation. Improved accessibility and visibility of dining options, ensuring 85% performance across all devices.
+## Market Analysis on companies and compensation based on sectors using Tableau:
+Analyzed Market trends, salary disparities (80%) and sector performance (20%) using advanced data visualisation techniques.
+Addressed research questions for each and provided actionable insights. Designed interactive dashboards to present key metrics, enabling stakeholders to make informed decisions.
+## Age and Gender Prediction using Face Image:
+Successfully enhanced prediction accuracy through the utilization of cutting-edge deep learning techniques.
+Devloped a robust and efficient solution, showcasing proficiency in machine learning and image processing technologies, achieving a 90% overall accuracy rate.
+## Smart Waste Management System:
+This project introduces a way to efficiently manage garbage in large cities without manually monitoring the components around the clock. Here the issue of disorganized waste collection is resolved by creating an embedded Internet of Things system that will track each dumpster’s particular waste deposit quantity.
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanreddy1&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanreddy1&theme=tokyonight)
