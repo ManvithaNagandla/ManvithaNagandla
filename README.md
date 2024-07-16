@@ -22,7 +22,7 @@ TensorFlow, PyTorch, scikit-learn, PySpark, NLTK, LLM’s
 Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prometheus, PowerShell, Linux, UI/UX, Bash, Pub/Sub, Jupyter Notebooks, PyCharm.</strong></p>
 
 <h3 align="left">Connect with me:</h3>
-<a href="linkedin.com/in/manvitha-nagandla3501271ab/" target="_blank">
+<a href="https://www.linkedin.com/in/manvitha-nagandla-3501271ab/" target="_blank">
   <img align="left" alt="Arjun | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
 <br/>
