@@ -70,5 +70,5 @@ This project introduces a way to efficiently manage garbage in large cities with
 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rohanreddy1&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ManvithaNagandla&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanreddy1&theme=tokyonight)
