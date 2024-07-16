@@ -27,7 +27,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 </a>
 <br/>
 
-<p>&#x2022; 📫 How to reach me -> <a href="mailto:manvithanagandla347@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="ManvithaNagandla" height="30" width="40" /><strong>manvithanagandla347@gmail.com</strong></a></p>
+<p>&#x2022;📫 How to reach me -> <a href="mailto:manvithanagandla347@gmail.com"><img align="center" src="https://user-images.githubusercontent.com/56149197/218254506-dd38dc25-4dc9-4f24-be93-d05a7be9c3d6.png" alt="ManvithaNagandla" height="30" width="40" /><strong>manvithanagandla347@gmail.com</strong></a></p>
 
 ## <img align="center" src="assets/career.png" alt="ManvithaNagandla" height="50" width="60" /> Work Experience
 ## TCS | Hyderabad, India | July 2021- July 2023
