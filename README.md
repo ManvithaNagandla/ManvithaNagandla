@@ -60,7 +60,7 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 
 
 
-### <img align="center" src="assets/project-management.png" alt="ManvithaNagandla" height="50" width="60" /> ProjecMade 
+### <img align="center" src="assets/project-management.png" alt="ManvithaNagandla" height="50" width="60" /> Projects Made 
 ## USF Dining Web Application:
 Designed a responsive web application, enhancing user engagement through interactive charts and intuitive navigation. Improved accessibility and visibility of dining options, ensuring 85% performance across all devices.
 ## Market Analysis on companies and compensation based on sectors using Tableau:
