@@ -32,28 +32,26 @@ Jenkins, JIRA, Confluence, Tableau, Power BI, GitHub, Git, RESTful, Splunk, Prom
 ## <img align="center" src="assets/career.png" alt="ManvithaNagandla" height="50" width="60" /> Work Experience
 ## TCS | Chennai, India | July 2021- July 2023
 
-## Assistant Systems Engineer, QA Engineer - Citi Bank
-•	Over 70% of Test Case overage was attained with Junit for various Zelle techniques and layers.
-
-•	Traceability was increased by 25% because of Zephyr’s integration with Jira for test management.
-
-•	Completed more than 500 test cases with success, covering backend, regression, non-functional, and functional testing.
-
-•	Developed and implemented fully distributed systems using Microservices and Restful API, which helped increase system efficiency by 20%.
-
-•	Identified and resolved over 100 software defects, improved system stability and reduced downtime by 15%
-
-•	Developed automated scripts using Selenium and TestNG, reducing manual testing efforts by 30% and ensuring consistent test execution.
-
-•	Carried out more than 20+ code reviews for automated test scripts, guaranteeing excellent standards and promoting smooth communication with development teams.
+## Assistant Systems Engineer, QA Analyst - Citi Bank
+•	Participated in Monthly releases by analyzing test data requirements, achieving over 70% test case coverage using JUnit for Zelle and other core banking functionalities across different platforms.
+•	Conducted Regression Testing on multiple platforms (iOS, Android, and Web) to ensure the stability of new builds and identify any functional or performance issues after code changes.
+•	Enhanced test data quality and conditioning by collaborating with the development and release management teams, improving overall date precision by 20%.
+•	Led knowledge transfer (KT) sessions on in-house Data Mining and Conditioning tools, boosting test team efficiency by 30%.
+•	Automated 30% of testing processes using Selenium and TestNG, reducing manual testing efforts while ensuring consistent and accurate test execution.
+•	Identified, documented, and tracked software defects, working closely with developers to ensure timely resolutions, which enhanced overall product quality and improved system stability by reducing defect recurrence by 15%.
+•	Generated detailed test reports and provided actionable insights, leading to better test planning and execution strategies, ultimately improving the efficiency and effectiveness of testing processes.
 
 
-## QA Engineer - Lufthansa
-• Collaborated with cross-functional teams to establish quality standards, overseeing 45% of test cycles, and maintained an updated test case library.
 
-•	Analyzed product issues, prioritized 30% of bug reports, developed detailed test cases and automated key tests to enhance efficiency.
-
-•	Conducted reviews to align testing strategies and assessed product acceptability based on the requirement. 
+## Data Analyst - Lufthansa
+•	Developed and maintained SQL queries, data models, and ETL pipelines to streamline data provisioning for Lufthansa’s core reservation and flight management systems, improving efficiency.
+•	Designed interactive dashboards and visualizations in Tableau to communicate insights effectively, increasing data accessibility for non-technical stakeholders
+•	Developed complex Excel formulas, including VLOOKUP, INDEX-MATCH, and nested IF statements, to streamline data analysis and reporting tasks.
+•	Automated test data pipelines using Python, enhancing testing efficiency by 30% across various service layers.
+•	Applied relational and star schema data modeling to improve the accuracy and integration of test data in Lufthansa’s systems.
+•	Utilized regression analysis to tackle complex business problems, improving test accuracy by 20% for critical service functions.
+•	Enhanced code quality and optimized BI processes, boosting speed, reliability, and communication within test environments for Lufthansa’s
+ 
 
 
 
